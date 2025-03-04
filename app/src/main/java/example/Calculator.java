@@ -6,7 +6,6 @@ public class Calculator {
     }
 
     public int minus(int a, int b) {
-        // TODO: Implement this method
         return a - b;
     }
 
